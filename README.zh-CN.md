@@ -29,3 +29,22 @@ URL 会被分类到不同的区域中，并以标题 / 简介作为链接的文�
 ### 档案
 
 - [**Internet Archive**](https://archive.org/) (2025-2-22)
+- [**WayBack Machine**](https://web.archive.org/) (2025-2-22)
+- [**维基百科**](https://wikipedia.org/) (2025-2-22)
+
+## 科学
+
+- [**综合**](#综合) / [**计算机科学**](#计算机科学)
+
+### 综合
+
+- [**arXiv**](https://arxiv.org/) (2025-2-22)
+
+### 计算机科学
+
+- [**操作系统**](#操作系统)
+
+#### 操作系统
+
+- [**NixOS**](https://nixos.org/) (一个优雅且可复用的系统) (2025-2-22)
+- [**Guix System**](https://guix.gnu.org/) (与 NixOS 相似，但使用 Scheme 作为配置语言) (2025-2-22)
