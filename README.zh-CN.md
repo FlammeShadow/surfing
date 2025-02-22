@@ -34,7 +34,7 @@ URL 会被分类到不同的区域中，并以标题 / 简介作为链接的文�
 
 ## 科学
 
-- [**综合**](#综合) / [**计算机科学**](#计算机科学) / [**编程语言**](#编程语言)
+- [**综合**](#综合) / [**计算机科学**](#计算机科学) / [**编程语言理论**](#plt)
 
 ### 综合
 
@@ -42,7 +42,12 @@ URL 会被分类到不同的区域中，并以标题 / 简介作为链接的文�
 
 ### 计算机科学
 
-- [**包管理器**](#包管理器) / [**操作系统**](#操作系统)
+- [**综合**](#cs-综合) /  [**包管理器**](#包管理器) / [**操作系统**](#操作系统) / [**编程语言**](#编程语言)
+
+#### CS 综合
+
+- [**ACM**](https://acm.org/) (2025-2-22)
+- [**Stack Overflow**](https://stackoverflow.com/) (2025-2-22)
 
 #### 包管理器
 
@@ -52,13 +57,30 @@ URL 会被分类到不同的区域中，并以标题 / 简介作为链接的文�
 #### 操作系统
 
 - [**MIT Exokernel Operating System**](https://pdos.csail.mit.edu/archive/exo/) (2025-2-22)
-  - [**Nemesis**](https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/nemesis/)
+  - [**Nemesis**](https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/nemesis/) (2025-2-22)
 - [**NixOS**](https://nixos.org/) (一个优雅且可复用的系统) (2025-2-22)
 - [**Guix System**](https://guix.gnu.org/) (与 NixOS 相似，但使用 Scheme 作为配置语言) (2025-2-22)
 
 ### 编程语言
 
-- [Lisp 语族](#lisp-语族)
+- [综合](#pl-综合) [理论](#plt) / [开发](#开发) / [现有语言](#现有语言)
+
+#### PL 综合
+
+- [**Lambda the Ultimate**](http://lambda-the-ultimate.org/) (2025-2-22)
+- [**Programming Language Design and Implementation**](https://langdev.stackexchange.com/) (2025-2-22)
+
+#### PLT
+
+- [**Oleg Kiselyov**](https://okmij.org/ftp/) (2025-2-22)
+
+#### 开发
+
+- [**Andy Wingo**](https://wingolog.org/) (2025-2-22)
+
+#### 现有语言
+
+- [**Lisp 语族**](#lisp-语族)
 
 #### Lisp 语族
 
@@ -66,7 +88,7 @@ URL 会被分类到不同的区域中，并以标题 / 简介作为链接的文�
 - [**Scheme**](https://scheme.org/) (2025-2-22)
 - [**Racket**](https://racket-lang.org/) (2025-2-22)
 - [**Clojure**](https://clojure.org/) (2025-2-22)
-- [**Emacs Lisp**](https://www.gnu.org/software/emacs/)
+- [**Emacs Lisp**](https://www.gnu.org/software/emacs/) (2025-2-22)
 - [**Pico Lisp**](https://picolisp.com/) (2025-2-22)
 - [**new LISP**](https://www.newlisp.org/) (2025-2-22)
 - [**Kernel**](https://web.cs.wpi.edu/~jshutt/kernel.html) (2025-2-22)
